@@ -4,15 +4,20 @@ Arbitrary Testing Page
 
 *italic*
 **bold**
-***bold italic?***
 ``code sample``
 
+``
+multiline
+sample?
+maybe..?
+``
+
 hopefully functioning
-```lua
-for i = 1,100 do
-  print(i)
-```
+
 
 ===========
 Subheading?
 ===========
+
+| quote!
+| with multiple lines?!
