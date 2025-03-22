@@ -6,11 +6,6 @@ Arbitrary Testing Page
 **bold**
 ``code sample``
 
-``
-multiline
-sample?
-maybe..?
-``
 
 hopefully functioning
 
@@ -19,5 +14,12 @@ hopefully functioning
 Subheading?
 ===========
 
-| quote!
-| with multiple lines?!
+:fieldname: Field content
+
+sample::
+  indent
+  test
+
+sample2::
+    further indent
+
